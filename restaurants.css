@@ -1,0 +1,78 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background-color: #d2b48c;
+}
+
+a {
+  color: ;
+}
+
+header {
+  padding: 10px;
+  background-image: url("http://eskipaper.com/images/cloud-background-8.jpg");
+  background-size: cover;
+  text-align: center;
+  font-style: italic;
+}
+
+nav {
+  width: 200px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: #888;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: ;
+  text-align: ;
+}
+
+img {
+  border: 1px solid black;
+margin-top: 10px; 
+    width: 400px;
+}
+
+.map {
+  margin-top: 5px;
+  width: 100px;
+  display:block;
+}
+
+h6 {
+  font-style: italic;
+  font-size: 12px;
+  margin: 4px;
+
+}

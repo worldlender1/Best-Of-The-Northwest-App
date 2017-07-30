@@ -1,0 +1,73 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background: #0A480D;
+}
+
+a {
+  color:#fff ;
+}
+
+.blue{
+ color: #015188;
+}
+
+article {
+  color:#fff;
+}
+
+header {
+  padding: 10px;
+  background: url('https://www.toursnorthwest.com/wp-content/uploads/2017/01/rainierBanner.jpg');
+  background-size: cover;
+  color:000000;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  height: 1000px;
+  float: left; /* don't modify */
+  background: #000000;
+  ;
+  margin-right: 20px;
+
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: ;
+  text-align: ;
+}
+
+img {
+  width: 400px;
+}
